@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidJoker</string>
+    <string name="alert_joke_missing_intent">Please send joke via intent</string>
+</resources>
